@@ -12,6 +12,7 @@ import {
   Lock,
   UserCheck
 } from 'lucide-react';
+import { useState } from 'react';
 
 export default function App() {
   // Authentication State
